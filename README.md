@@ -2,6 +2,8 @@
 
 Advanced React Native background color flatlist.
 
+![Preview](https://user-images.githubusercontent.com/22890658/147510544-808b60bb-9120-4fe2-952b-be5b38034112.gif)
+
 ## Installation
 
 ```sh
