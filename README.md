@@ -7,11 +7,11 @@ Advanced React Native background color flatlist.
 ## Installation
 
 ```sh
-npm install react-native-background-color-carousel@https://github.com/AdamLee321/ract-native-background-color-carousel
+npm install react-native-background-color-carousel@https://github.com/AdamLee321/react-native-background-color-carousel
 
 or
 
-yarn add react-native-background-color-carousel@https://github.com/AdamLee321/ract-native-background-color-carousel
+yarn add react-native-background-color-carousel@https://github.com/AdamLee321/react-native-background-color-carousel
 ```
 
 ## Usage
