@@ -51,7 +51,8 @@ const DATA = [
 import { BackgroundCarousel } from 'react-native-background-color-carousel';
 
 render() {
-  return <BackgroundCarousel
+    return (
+      <BackgroundCarousel
         data={this.state.data}
         backgroundColors={bgs}
         renderRightIcons={() => {
@@ -75,7 +76,8 @@ render() {
           );
         }}
       />
-}
+    );
+  }
 ```
 
 ## Props Available
