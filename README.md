@@ -95,7 +95,7 @@ See the [contributing guide](CONTRIBUTING.md) to learn how to contribute to the 
 ## TODO
 <ul>
     <li>
-        iOS Device Test
+        Android Device Test
     </li>
     <li>
         Add more customisation props
