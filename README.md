@@ -92,6 +92,29 @@ render() {
 
 See the [contributing guide](CONTRIBUTING.md) to learn how to contribute to the repository and the development workflow.
 
+## TODO
+<ul>
+    <li>
+        iOS Device Test
+    </li>
+    <li>
+        Add more customisation props
+    </li>
+    <li>
+        Update to react-native-reanimated-2 or Moti (UI thread only animation)
+    </li>
+    <li>
+        <strike>Next, Prev, Skip button implementation</strike>
+    </li>
+    <li>
+        <strike>Add renderRightButton prop</strike>
+    </li>
+    <li>
+        <strike>Add ScrollX prop (control background color)</strike>
+    </li>
+    
+</ul>
+
 ## License
 
 MIT
