@@ -31,7 +31,7 @@ const bgs = [
 ];
 const DATA = [
   {
-    id: '',
+    id: '0',
     photo:
       'https://images.unsplash.com/photo-1551316679-9c6ae9dec224?w=800&q=80',
     title: 'Mindfulness',
@@ -52,32 +52,32 @@ import { BackgroundCarousel } from 'react-native-background-color-carousel';
 
 render() {
     return (
-      <BackgroundCarousel
+        <BackgroundCarousel
         data={this.state.data}
         backgroundColors={bgs}
         renderRightIcons={() => {
-          return (
+            return (
             <>
-              <Icon
+                <Icon
                 name="grid"
                 type="material-community"
                 color={'black'}
                 size={30}
                 containerStyle={{ marginLeft: 20 }}
-              />
-              <Icon
+                />
+                <Icon
                 name="cog"
                 type="material-community"
                 color={'black'}
                 size={30}
                 containerStyle={{ marginLeft: 20 }}
-              />
+                />
             </>
-          );
+            );
         }}
-      />
+        />
     );
-  }
+}
 ```
 
 ## Props Available
